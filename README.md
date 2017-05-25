@@ -3,7 +3,10 @@
 
 ### Adapted from Stephen Grider's [Modern React with Redux Udemy Course](https://www.udemy.com/react-redux/learn/v4/overview)
 
+Be sure to add the API key in `src/App.js`
 
+
+## All text below comes with Create-React-App
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
